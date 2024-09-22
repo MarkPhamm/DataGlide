@@ -1,5 +1,17 @@
 # DataGlide
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/25de3c9a-d73a-4200-8ac8-d6a2416e6e3d" style="width: 450px; height: 300px; margin-right: 0px;" />
+  <img src="https://github.com/user-attachments/assets/721cfadb-84c4-4025-92df-dd3e0e118efc" style="width: 450px; height: 300px;" />
+</div
+
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/da1aa946-cc4e-4f95-921c-c5ac0fef8bdf" style="width: 905px; height: 200px; margin-right: 50px;" />
+</div>
+
+
+## About DataGlide
 DataGlide is a streamlined web application built with Streamlit, allowing users to manipulate datasets easily using MitoSheet and visualize them interactively with PyGWalker. Whether you're exploring, cleaning, or visualizing your data, DataGlide provides an intuitive interface for seamless data analysis.
 
 ## Features
